@@ -3,11 +3,11 @@
 
 ###Список тем:
 
-1. [Типы дистрибутивов](https://github.com/AlexCollin/linux-short-lesson/1-types)
-2. [Управление пакетами](https://github.com/AlexCollin/linux-short-lesson/2-packages)	
-3. [Инициализация системы Systemd, init-v](https://github.com/AlexCollin/linux-short-lesson/3-init)	
-4. [Управление пользователями](https://github.com/AlexCollin/linux-short-lesson/4-users)		
-5. [Производительность системы](https://github.com/AlexCollin/linux-short-lesson5-perf)	
+1. [Типы дистрибутивов](https://github.com/AlexCollin/linux-short-lesson/tree/master/1-types)
+2. [Управление пакетами](https://github.com/AlexCollin/linux-short-lesson/tree/master/2-packages)	
+3. [Инициализация системы Systemd, init-v](https://github.com/AlexCollin/linux-short-lesson/tree/master/3-init)	
+4. [Управление пользователями](https://github.com/AlexCollin/linux-short-lesson/tree/master/4-users)		
+5. [Производительность системы](https://github.com/AlexCollin/linux-short-lesson/tree/master/5-perf)	
 
 
 ###Описание тем:
